@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\sequential\sequential\sequential\obj\Debug\net8.0\sequential.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\sequential\sequential\sequential\obj\Debug\net8.0\sequential.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\sequential\sequential\sequential\obj\Debug\net8.0\sequential.AssemblyInfo.cs
+C:\Users\User\Desktop\sequential\sequential\sequential\obj\Debug\net8.0\sequential.csproj.CoreCompileInputs.cache

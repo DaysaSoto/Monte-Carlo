@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sequential": {
+      "commandName": "Project",
+      "commandLineArgs": "--width 500 --height 500 --days 30 --out ..\\outputs\\sequential"
+    }
+  }
+}
